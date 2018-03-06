@@ -6,8 +6,8 @@
 		"lname": "Wagura",
 		"nick":"kharioki",
 		"address": {
-			"list": ["Metta Nairobi, 14 Riverside rd, Chiromo, Nairobi, Kenya 00100 ",
-				"'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
+			"list": [
+				"Metta Nairobi, 14 Riverside rd, Chiromo, Nairobi, Kenya 00100 "
 			]
 		},
 		"email": "tony.kharioki@gmail.com",
@@ -148,6 +148,13 @@
 	],
 	"works": [
 		{
+			"sn":7,"link":"","workPosition": "Business Lead and Senior Developer",
+			"periodStart": "Dec 2017",
+			"periodEnd": "Ongoing",
+			"organisation": "Yzar Intl.",
+			"experience": "Always working towards delivering great tech products leveraging on recent technologies."
+		},
+		{
 			"sn":6,"link":"","workPosition": "Lead Dev, Project Manager",
 			"periodStart": "June 2017",
 			"periodEnd": "Jan 2018",
@@ -165,8 +172,15 @@
 			"sn":4,"link":"","workPosition": "Mobile Developer",
 			"periodStart": "January 2018",
 			"periodEnd": "January 2018",
-			"organisation": "Vitumob.",
+			"organisation": "VM.",
 			"experience": "Learn alot about the retail shipment sector."
+		},
+		{
+			"sn":5,"link":"","workPosition": "Frontend Developer",
+			"periodStart": "January 2018",
+			"periodEnd": "TBA",
+			"organisation": "Sinbad Technologies.",
+			"experience": "Built an insurance portal for Tanzania Insurance Authority and Kenya Marine-cargo Insurance."
 		}
 	],
 	"projects":[
