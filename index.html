@@ -1,97 +1,119 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title></title>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" type="text/css" href="css/animate.css">
-		<link rel="stylesheet" type="text/css" href="css/materialize.min.css">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montez" >
-		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-		<link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Lekton" rel="stylesheet"/>
-      	<link href="https://fonts.googleapis.com/css?family=Lekton" rel="stylesheet"/>
-		<link rel='stylesheet' type="text/css" href='css/perfect-scrollbar.min.css' />
-		<link rel="stylesheet" type="text/css" href="css/sweetalert.css">
-		<link rel="stylesheet" type="text/css" href="css/devicon.min.css">
-		<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/4f6a4b08efdad6bb29f9cc801f5c07e263b39907/devicon.min.css">
-		<link rel="stylesheet" type="text/css" href="css/main.css">
-		<script src="js/jquery.min.js"></script>
-		<script src="js/materialize.min.js"></script>
-		<script src='js/perfect-scrollbar.jquery.min.js'></script>
-		<script src="js/sweetalert.min.js"></script>
-		<script src="js/typed.min.js"></script>	
-	</head>
-	<body onload="onBodyLoad()">
+  <head>
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="css/animate.css" />
+    <link rel="stylesheet" type="text/css" href="css/materialize.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Montez"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Kaushan+Script|Lekton"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lekton"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="css/perfect-scrollbar.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="css/sweetalert.css" />
+    <link rel="stylesheet" type="text/css" href="css/devicon.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.rawgit.com/konpa/devicon/4f6a4b08efdad6bb29f9cc801f5c07e263b39907/devicon.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <script src="js/jquery.min.js"></script>
+    <script src="js/materialize.min.js"></script>
+    <script src="js/perfect-scrollbar.jquery.min.js"></script>
+    <script src="js/sweetalert.min.js"></script>
+    <script src="js/typed.min.js"></script>
+  </head>
+  <body onload="onBodyLoad()">
+    <div class="row">
+      <div id="pagea" class="page col m3 s12">
+        <div class="row"><h1 id="name" class="center-align"></h1></div>
+        <div id="image" class="row"><img class="circle" src="" /></div>
+        <div id="contact" class="row"></div>
+        <div id="summary" class="row">
+          <div class="col m12"><p></p></div>
+        </div>
+        <div id="links" class="row"></div>
+      </div>
 
-		<div class="row">
-			<div id="pagea" class="page col m3 s12">
-				<div class="row"><h1 id="name" class="center-align"></h1></div>
-				<div id="image" class="row"><img class="circle" src=""></div>
-				<div id="contact" class="row">
-					
-				</div>
-				<div id="summary" class="row"><div class="col m12"><p></p></div></div>
-				<div id="links" class="row"></div>
-			</div>
-
-			<div id="pageb" class="page col m9 s12">
-				<ul id="tabs" class="tabs">
-					<li class="tab col s2"><a href="#hello">Hello</a></li>
-					<li class="tab col s2"><a href="#skills">Skills</a></li>
-					<li class="tab col s2"><a href="#projects">Projects</a></li>
-					<li class="tab col s3"><a href="#experience">Experience</a></li>
-					<li class="tab col s3"><a href="#education">Education</a></li>
-					
-				</ul>
-				<div id="hello" class="info col m12 s12">
-
-					<div class="row">
-						<div id="helloText" class="col m6 s12 "></div>
-						<div class="col m6 s12">
-							<div id="believe" class="row">
-								<h4>I believe</h4>
-								<span></span>
-							</div>
-							<div id="likes" class="row"></div>
-						</div>
-					</div>		
-
-
-					<!-- Please support by not removing this section-->
-					<div id="moghyaSays" class="row">
-						<h6>Here's the Recipe</h6>	
-						<div class="col m6">
-							<div class="row">
-                  Would you like to have your own portfolio in this template ?			It's pretty easy, <br>
-								Just DM me on twitter and we can talk. Click <a href="https://twitter.com/kharioki">here</a>.
-							</div>
-						</div>
-						<div class="col m6">
-							<div class="row">
-							I extend my warm Gratitude to following organisations and people. Ya'll made me a great developer:
-							</div>
-							<div class="row">
-								<div class="col m4 s4"><a href="https://stackoverflow.com/">Stack Overflow</a></div>
-								<div class="col m4 s4"><a href="https://meltwater.org/">MEST</a></div>
-								<div class="col m4 s4"><a href="http://graphcool.slack.com/">Graphcool Community</a></div>				
-							</div>
-							<div class="row">
-								<div class="col m4 s4"><a href="http://devcongress.org/">DevCongress  Ghana</a></div>
-								<div class="col m4 s4"><a href="https://medium.com/@hackernoon">Hackernoon</a></div>
-								<div class="col m4 s4"><a href="https://web.facebook.com/groups/DevCNairobi//">DevC Nairobi</a></div>					
-							</div>
-							<div class="row">
-								<div class="col m4 s4"><a href="https://developers.google.com/">GDC</a></div>					
+      <div id="pageb" class="page col m9 s12">
+        <ul id="tabs" class="tabs">
+          <li class="tab col s2"><a href="#hello">Hello</a></li>
+          <li class="tab col s2"><a href="#skills">Skills</a></li>
+          <li class="tab col s2"><a href="#projects">Projects</a></li>
+          <li class="tab col s3"><a href="#experience">Experience</a></li>
+          <li class="tab col s3"><a href="#education">Education</a></li>
+        </ul>
+        <div id="hello" class="info col m12 s12">
+          <div class="row">
+            <div id="helloText" class="col m6 s12 "></div>
+            <div class="col m6 s12">
+              <div id="believe" class="row">
+                <h4>I believe</h4>
+                <span></span>
               </div>
-						</div>
-					</div>
-				</div>
-				<div id="skills" class="info col m12 s12"></div>
-				<div id="projects" class="info col m12 s12 "></div>
-				<div id="experience" class="info col m12 s12"></div>
-				<div id="education" class="info col m12 s12"></div>
-		
-			</div>
-		</div>
-	</body>
-	<script src="js/index.js"></script>
+              <div id="likes" class="row"></div>
+            </div>
+          </div>
+
+          <!-- Please support by not removing this section-->
+          <div id="moghyaSays" class="row">
+            <h6>Here's the Recipe</h6>
+            <div class="col m6">
+              <div class="row">
+                Would you like to have your own portfolio in this template ?
+                It's pretty easy, <br />
+                Just DM me on twitter and we can talk. Click
+                <a href="https://twitter.com/kharioki">here</a>.
+              </div>
+            </div>
+            <div class="col m6">
+              <div class="row">
+                I extend my warm Gratitude to following organisations and
+                people. Ya'll made me a great developer:
+              </div>
+              <div class="row">
+                <div class="col m4 s4">
+                  <a href="https://stackoverflow.com/">Stack Overflow</a>
+                </div>
+                <div class="col m4 s4">
+                  <a href="https://meltwater.org/">MEST</a>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col m4 s4">
+                  <a href="http://graphcool.slack.com/">Graphcool Community</a>
+                </div>
+                <div class="col m4 s4">
+                  <a href="https://web.facebook.com/groups/DevCNairobi//"
+                    >DevC Nairobi</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="skills" class="info col m12 s12"></div>
+        <div id="projects" class="info col m12 s12 "></div>
+        <div id="experience" class="info col m12 s12"></div>
+        <div id="education" class="info col m12 s12"></div>
+      </div>
+    </div>
+  </body>
+  <script src="js/index.js"></script>
 </html>
