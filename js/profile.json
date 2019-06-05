@@ -143,7 +143,7 @@
   ],
   "works": [
     {
-      "sn": 7,
+      "sn": 5,
       "link": "",
       "workPosition": "Business Lead and Senior Developer",
       "periodStart": "Dec 2017",
@@ -152,7 +152,7 @@
       "experience": "Always working towards delivering great tech products leveraging on recent technologies."
     },
     {
-      "sn": 6,
+      "sn": 4,
       "link": "",
       "workPosition": "Lead Dev, Project Manager",
       "periodStart": "June 2017",
@@ -161,25 +161,7 @@
       "experience": "It was nice to be a part of an awesome team.Developed an amazing inventory management tool."
     },
     {
-      "sn": 5,
-      "link": "",
-      "workPosition": "Frontend developer",
-      "periodStart": "March 2017",
-      "periodEnd": "May 2017",
-      "organisation": "Slash'd Inc.",
-      "experience": "Built a groupon-like platform. Learnt how to manage resources and make most out of everything."
-    },
-    {
-      "sn": 4,
-      "link": "",
-      "workPosition": "Mobile Developer",
-      "periodStart": "January 2018",
-      "periodEnd": "January 2018",
-      "organisation": "VM.",
-      "experience": "Learn alot about the retail shipment sector."
-    },
-    {
-      "sn": 5,
+      "sn": 3,
       "link": "",
       "workPosition": "Senior Frontend Developer",
       "periodStart": "January 2018",
@@ -188,7 +170,7 @@
       "experience": "Built an insurance portal for Tanzania Insurance Authority and Kenya Marine-cargo Insurance."
     },
     {
-      "sn": 5,
+      "sn": 2,
       "link": "",
       "workPosition": "Senior Mobile Developer (Android/iOS)",
       "periodStart": "June 2018",
@@ -197,7 +179,7 @@
       "experience": "Built the first door management application for events."
     },
     {
-      "sn": 5,
+      "sn": 1,
       "link": "",
       "workPosition": "Senior Software Engineer",
       "periodStart": "March 2019",
@@ -208,7 +190,7 @@
   ],
   "projects": [
     {
-      "sn": 14,
+      "sn": 15,
       "projectTitle": "Chowbase",
       "periodStart": "June 2017",
       "periodEnd": "Jan 2018",
@@ -218,7 +200,7 @@
       "link": "http://getchowbase.com"
     },
     {
-      "sn": 13,
+      "sn": 14,
       "projectTitle": "KanjoPay",
       "periodStart": "Oct 2017",
       "periodEnd": "Nov 2017",
@@ -228,7 +210,7 @@
       "link": ""
     },
     {
-      "sn": 12,
+      "sn": 13,
       "projectTitle": "TIIP (Tanzania Insurance Information Portal)",
       "periodStart": "January 2018",
       "periodEnd": "June 2018",
@@ -238,7 +220,7 @@
       "link": "https://tiip.co.tz/"
     },
     {
-      "sn": 11,
+      "sn": 12,
       "projectTitle": "Mookh Ticketing App",
       "periodStart": "June 2018",
       "periodEnd": "Nov 2018",
