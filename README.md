@@ -1,4 +1,4 @@
-### Hey, I'm Tony Stark 
+### Hey, I'm Tony Stark :speech_balloon: 
 I'm 5'5" :stuck_out_tongue: and I love wood-working, rewatching NCIS series and cold beer :beer:.
 
 ### My arsenal :wrench: :hammer: :nut_and_bolt:
@@ -17,12 +17,10 @@ My work hours are anytime between noon and 10ish at night. Anything after that, 
 ### How to best communicate with me :satellite: :telephone_receiver: :phone:
 While you can find me through my handle **@kharioki** on any and all social networks, the best way to reacch me is via **Twitter DMs**.
 
-{% twitter 1272932619022467073 %}
-
 ### I can help you with__
-* How to bootstrap your tech ideas.
-* User research, UI/UX design :clipboard:
-* Technical writing
+* How to bootstrap your tech ideas. :bomb:
+* User research, UI/UX design :clipboard: :bar_chart:
+* Technical writing :memo:
 
 ### Other things you may want to know about me
 * **I am part Irish:** *I dont care if I know the song, I still sing it anyway* :microphone:
@@ -31,7 +29,7 @@ While you can find me through my handle **@kharioki** on any and all social netw
 * **My hood :house: :** Westlands, Nairobi, Kenya
 
 ### What I hate
-* Political correctness
+* Political correctness :mask:
 
 
 ![I'm IronMan](https://media.giphy.com/media/rlsHtd2YC8k0g/giphy.gif)
