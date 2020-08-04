@@ -35,6 +35,11 @@ While you can find me through my handle **@kharioki** on any and all social netw
 - [Intro to flutter](https://dev.to/kharioki/intro-to-flutter-3ajb)
 <!-- BLOG-POST-LIST:END -->
 
+___
+<img align="left" alt="Kharioki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kharioki&show_icons=true&hide_border=true" />
+
+___
+
 ### Other things you may want to know about me
 * **I am part Irish:** *I dont care if I know the lyrics to the song, I'll still sing it anyway* :microphone:
 * **Fruit on pizza :pizza: :** Yes please. 
