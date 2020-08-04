@@ -35,16 +35,12 @@ While you can find me through my handle **@kharioki** on any and all social netw
 - [Intro to flutter](https://dev.to/kharioki/intro-to-flutter-3ajb)
 <!-- BLOG-POST-LIST:END -->
 
-___
-<img align="left" alt="Kharioki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kharioki&show_icons=true&hide_border=true" />
+<img align="left" alt="Kharioki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kharioki&show_icons=true&hide_border=true&theme=vue" />
 
-___
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharioki&layout=compact)](https://github.com/kharioki/github-readme-stats)
 
 ### Other things you may want to know about me
 * **I am part Irish:** *I dont care if I know the lyrics to the song, I'll still sing it anyway* :microphone:
 * **Fruit on pizza :pizza: :** Yes please. 
 * **I love my :coffee: and :tea: :** Kenyan
 * **My hood :house: :** Westlands, Nairobi, Kenya
-
-
-![I'm IronMan](https://media.giphy.com/media/rlsHtd2YC8k0g/giphy.gif)
