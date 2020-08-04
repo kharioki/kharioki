@@ -48,5 +48,5 @@ ___
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharioki&layout=compact&title_color=#ff69b4)](https://github.com/kharioki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharioki&layout=compact)](https://github.com/kharioki/github-readme-stats)
 
