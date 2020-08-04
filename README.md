@@ -44,3 +44,5 @@ While you can find me through my handle **@kharioki** on any and all social netw
 * **Fruit on pizza :pizza: :** Yes please. 
 * **I love my :coffee: and :tea: :** Kenyan
 * **My hood :house: :** Westlands, Nairobi, Kenya
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kharioki&repo=github-readme-stats&theme=dark)](https://github.com/kharioki/github-readme-stats)
