@@ -2,6 +2,7 @@
 
 ### Hey, I'm Tony Stark :speech_balloon: 
 I'm a software engineer, digital nomad, maker, UXer and fashion model. 
+
 I'm 5'5" :stuck_out_tongue: and I love wood-working, rewatching NCIS series and cold beer :beer:.
 
 ### My arsenal :wrench: :hammer: :nut_and_bolt:
@@ -34,9 +35,6 @@ While you can find me through my handle **@kharioki** on any and all social netw
 * **Fruit on pizza :pizza: :** Yes please. 
 * **I love my :coffee: and :tea: :** Kenyan
 * **My hood :house: :** Westlands, Nairobi, Kenya
-
-### What I hate
-* Political correctness :mask:
 
 
 ![I'm IronMan](https://media.giphy.com/media/rlsHtd2YC8k0g/giphy.gif)
