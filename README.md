@@ -25,6 +25,10 @@ While you can find me through my handle **@kharioki** on any and all social netw
 * User research, UI/UX design :clipboard: :bar_chart:
 * Technical writing :memo:
 
+### Some of my latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Other things you may want to know about me
 * **I am part Irish:** *I dont care if I know the lyrics to the song, I'll still sing it anyway* :microphone:
 * **Fruit on pizza :pizza: :** Yes please. 
