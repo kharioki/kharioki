@@ -20,6 +20,7 @@ My work hours are anytime between noon and 10ish at night. Anything after that, 
 
 ### How to best communicate with me :satellite: :telephone_receiver: :phone:
 While you can find me through my handle **@kharioki** on any and all social networks, the best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
+![Twitter Follow](https://img.shields.io/twitter/follow/kharioki?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ### I can help you with:
 * How to bootstrap your tech ideas. :bomb:
