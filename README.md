@@ -43,7 +43,7 @@ While you can find me through my handle **@kharioki** on any and all social netw
 
 ___
 
-<img align="left" alt="Kharioki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kharioki&show_icons=true&hide_border=true&theme=onedark" />
+<img align="left" alt="Kharioki's Github Stats" src="https://github-readme-stats.kharioki.vercel.app//api?username=kharioki&show_icons=true&hide_border=true&theme=vue" />
 
 <br />
 
