@@ -9,7 +9,7 @@ I'm 5'5" :stuck_out_tongue: and I love wood-working, rewatching NCIS series and 
 * **Languages** Javascript/Typescript, Python, Dart 
 * **Mobile app development:** React Native, Flutter
 * **Web app development:** React, Vue, Graphql, Apollo 
-* **Styling:** css, sass, less, tailwind css, styled components
+* **Styling:** CSS, sass, less, tailwind css, styled components
 * **Machine learning:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow...
 * **TDD:** Jest, Mocha, Chai, Cypress
 * **Agile stuff:** Everything Atlassian, slab, asana, etc
