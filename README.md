@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/22290070/88123355-6a4a1780-cbd3-11ea-8a17-bf4a984cd1c6.jpeg)
+![cover](https://user-images.githubusercontent.com/22290070/88123355-6a4a1780-cbd3-11ea-8a17-bf4a984cd1c6.jpeg=1000x200)
 
 ### Hey, I'm Tony Stark :speech_balloon: 
 I'm a software engineer, digital nomad, maker, UXer and fashion model. 
