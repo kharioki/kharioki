@@ -16,7 +16,7 @@ I'm 5'5" :stuck_out_tongue: and I love wood-working, rewatching NCIS series and 
 * **Extras:** Alexa skills,  Google assistant skills, AR Studio, Facebook technologies, React VR, 
 
 ### My work hours :calendar: :alarm_clock:
-My work hours are anytime between noon and 10ish at night(EAT). Anything after that, please communicate first. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
+My work/consultation hours are anytime between 6AM to 10AM and between 8PM and Midnight(GMT+3). Anything after that, please communicate first. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
 
 ### How to best communicate with me :satellite: :telephone_receiver: :phone:
 While you can find me through my handle **@kharioki** on any and all social networks, the best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
