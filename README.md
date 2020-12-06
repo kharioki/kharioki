@@ -1,9 +1,7 @@
 ![cover](https://user-images.githubusercontent.com/22290070/88123355-6a4a1780-cbd3-11ea-8a17-bf4a984cd1c6.jpeg)
 
 ### Hey, I'm Tony Stark :speech_balloon: 
-I'm a software engineer, digital nomad, maker, UXer and fashion model. 
-
-I'm 5'5" :stuck_out_tongue: and I love wood-working, rewatching NCIS series and cold beer :beer:.
+I'm a software engineer, digital nomad, maker, UXer and fashion model. I love wood-working, rewatching NCIS series and cold beer :beer:.
 
 ### My tools :wrench: :hammer: :nut_and_bolt:
 * **Languages** Javascript/Typescript, Python, Dart 
