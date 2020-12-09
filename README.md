@@ -42,10 +42,10 @@ While you can find me through my handle **@kharioki** on any and all social netw
 
 ___
 
-<img align="left" alt="Kharioki's Github Stats" src="https://github-readme-stats.kharioki.vercel.app//api?username=kharioki&show_icons=true&hide_border=true&theme=vue" />
+<img align="left" alt="Kharioki's Github Stats" src="https://github-readme-stats.kharioki.vercel.app//api?username=kharioki&show_icons=true&hide_border=true&theme=dark" />
 
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharioki&layout=compact)](https://github.com/kharioki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharioki&layout=compact&theme=dark)](https://github.com/kharioki/github-readme-stats)
 
