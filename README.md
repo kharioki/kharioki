@@ -49,3 +49,8 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharioki&layout=compact&theme=dark)](https://github.com/kharioki/github-readme-stats)
 
+<br />
+
+[![Kharioki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kharioki&layout=compact&theme=dark)](https://github.com/kharioki/github-readme-stats)
+
+
