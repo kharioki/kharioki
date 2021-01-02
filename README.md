@@ -1,7 +1,7 @@
 ![cover](https://user-images.githubusercontent.com/22290070/88123355-6a4a1780-cbd3-11ea-8a17-bf4a984cd1c6.jpeg)
 
 ### Hey, I'm Tony Stark :speech_balloon: 
-I'm a software engineer, digital nomad, maker, UXer and fashion model. I love wood-working, rewatching NCIS series and cold beer :beer:.
+I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DIY-stuff, rewatching NCIS series and cold beer :beer:.
 
 ### My tools :wrench: :hammer: :nut_and_bolt:
 * **Languages** Javascript/Typescript, Python, Dart 
@@ -14,7 +14,7 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love wo
 * **Extras:** Alexa skills,  Google assistant skills, AR Studio, Facebook technologies, React VR, 
 
 ### My work hours :calendar: :alarm_clock:
-My work/consultation hours are anytime between 6AM to 10AM and between 8PM and Midnight(GMT+3). Anything after that, please communicate first. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
+My work/consultation hours are anytime between 2PM to 6PM and between 8PM and Midnight(GMT+3). Anything after that, please communicate first. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
 
 ### How to best communicate with me :satellite: :telephone_receiver: :phone:
 While you can find me through my handle **@kharioki** on any and all social networks, the best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
