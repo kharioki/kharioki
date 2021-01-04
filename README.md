@@ -17,12 +17,12 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 My work/consultation hours are anytime between 2PM to 6PM and between 8PM and Midnight(GMT+3). Anything after that, please communicate first. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
 
 ### How to best communicate with me :satellite: :telephone_receiver: :phone:
-While you can find me through my handle **@kharioki** on any and all social networks, the best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
+The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
 ![Twitter Follow](https://img.shields.io/twitter/follow/kharioki?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ### I can help you with:
-* How to bootstrap your tech ideas. :bomb:
-* User research, UI/UX design :clipboard: :bar_chart:
+* How to bootstrap your tech ideas from zero to startup. :bomb:
+* User research, UI/UX design for web and mobile applications :clipboard: :bar_chart:
 * Technical writing :memo:
 
 ### Some of my latest Blog posts
