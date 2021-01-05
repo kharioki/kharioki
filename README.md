@@ -23,7 +23,7 @@ The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
 ### I can help you with:
 * How to bootstrap your tech ideas from zero to startup. :bomb:
 * User research, UI/UX design for web and mobile applications :clipboard: :bar_chart:
-* Technical writing :memo:
+* Technical writing - Javascript, Flutter among other languages and tools :memo:
 
 ### Some of my latest Blog posts
 <!-- BLOG-POST-LIST:START -->
