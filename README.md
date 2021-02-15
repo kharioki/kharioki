@@ -6,7 +6,8 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 ### My tools :wrench: :hammer: :nut_and_bolt:
 * **Languages** Javascript/Typescript, Python, Dart 
 * **Mobile app development:** React Native, Flutter
-* **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML 
+* **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
+* **Back-end:** KeystoneJS, Prisma, Hasura, MongoDB, Postgres
 * **Styling:** CSS, sass, less, tailwind, styled-components
 * **Machine learning:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
