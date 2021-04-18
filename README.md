@@ -7,7 +7,7 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **Languages** Javascript/Typescript, Python, Dart 
 * **Mobile app development:** React Native, Flutter
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
-* **Headless CMS:** Sanity, Contentful, Strapi, Netlify CMS
+* **Headless CMS:** Keystone, Sanity, Contentful, Strapi, Netlify CMS
 * **Back-end:** KeystoneJS, Prisma, Hasura, MongoDB, Postgres
 * **Styling:** CSS, sass, less, tailwind, styled-components
 * **Machine learning:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
