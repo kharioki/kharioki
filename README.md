@@ -29,11 +29,11 @@ The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
 
 ### Some of my latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Site tradeoffs: SEO vs Speed vs Ease of update](https://dev.to/kharioki/site-tradeoffs-seo-vs-speed-vs-ease-of-update-lnm)
 - [NextJS - getting started](https://dev.to/kharioki/nextjs-getting-started-1pbe)
 - [JS interviews... and how to (part 3)](https://dev.to/kharioki/js-interviews-and-how-to-part-3-4ll8)
 - [TypeScript... what is it?](https://dev.to/kharioki/typescript-what-is-it-1deh)
 - [Js Interviews... and how to. (part 2)](https://dev.to/kharioki/js-interviews-and-how-to-part-2-pal)
-- [JS Interviews... and how to. (Part 1)](https://dev.to/kharioki/js-interviews-and-how-to-part-1-4gjd)
 <!-- BLOG-POST-LIST:END -->
 
 ### Other things you may want to know about me
