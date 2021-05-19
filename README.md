@@ -14,6 +14,7 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
 * **Agile stuff:** Everything Atlassian, slab, asana, etc
 * **Extras:** Alexa skills,  Google assistant skills, AR Studio, Facebook technologies, React VR, 
+* **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth
 
 ### My work hours :calendar: :alarm_clock:
 My work/consultation hours are anytime between 2PM to 6PM and between 8PM and Midnight(GMT+3). Anything after that, please communicate first. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
