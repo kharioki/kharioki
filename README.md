@@ -4,7 +4,7 @@
 I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DIY-stuff, rewatching NCIS series and cold beer :beer:.
 
 ### My tools :wrench: :hammer: :nut_and_bolt:
-* **Languages** Javascript/Typescript, Python, Dart 
+* **Languages** Javascript/Typescript, Python, Dart, Rust 
 * **Mobile app development:** React Native, Flutter
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
 * **Headless CMS:** Sanity, Contentful, Strapi, Netlify CMS, Netlify Identity
