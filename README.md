@@ -1,11 +1,12 @@
-![cover](https://user-images.githubusercontent.com/22290070/88123355-6a4a1780-cbd3-11ea-8a17-bf4a984cd1c6.jpeg)
-
+<!-- ![cover](https://user-images.githubusercontent.com/22290070/88123355-6a4a1780-cbd3-11ea-8a17-bf4a984cd1c6.jpeg)
+ -->
 ### Hey, I'm Tony Stark :speech_balloon: 
 I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DIY-stuff, rewatching NCIS series and cold beer :beer:.
 
 ### My tools :wrench: :hammer: :nut_and_bolt:
 * **Languages** Javascript/Typescript, Python, Dart, Rust 
 * **Mobile app development:** React Native, Flutter
+* **Design systems:** Storybook, Chromatic
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
 * **Headless CMS:** Sanity, Contentful, Strapi, Netlify CMS, Netlify Identity
 * **Back-end:** KeystoneJS, Prisma, Hasura, MongoDB, Postgres
@@ -17,7 +18,7 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth
 
 ### My work hours :calendar: :alarm_clock:
-My work/consultation hours are anytime between 2PM to 6PM and between 8PM and Midnight(GMT+3). Anything after that, please communicate first. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
+My work/consultation hours are anytime on weekdays. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
 
 ### How to best communicate with me :satellite: :telephone_receiver: :phone:
 The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
@@ -25,6 +26,7 @@ The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
 
 ### I can help you with:
 * How to bootstrap your tech ideas from zero to startup. :bomb:
+* Creating design systems for your startup
 * User research, UI/UX design for web and mobile applications :clipboard: :bar_chart:
 * Technical writing - Javascript, Flutter among other languages and tools :memo:
 
