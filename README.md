@@ -6,10 +6,10 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 ### My tools :wrench: :hammer: :nut_and_bolt:
 * **Languages** Javascript/Typescript, Python, Dart, Rust 
 * **Mobile app development:** React Native, Flutter
-* **Design systems:** Storybook, Chromatic
+* **Design systems:** Storybook, Chromatic, Figma
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
 * **Headless CMS:** Sanity, Contentful, Strapi, Netlify CMS, Netlify Identity
-* **Back-end:** KeystoneJS, Prisma, Hasura, MongoDB, Postgres
+* **Back-end:** KeystoneJS, Prisma, Hasura, MongoDB, FaunaDB, Postgres
 * **Styling:** CSS, sass, less, tailwind, styled-components
 * **Machine learning:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
@@ -47,7 +47,7 @@ The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
 
 ___
 
-<img align="left" alt="Kharioki's Github Stats" src="https://github-readme-stats.kharioki.vercel.app//api?username=kharioki&show_icons=true&hide_border=true&theme=dark" />
+<!-- <img align="left" alt="Kharioki's Github Stats" src="https://github-readme-stats.kharioki.vercel.app//api?username=kharioki&show_icons=true&hide_border=true&theme=dark" />
 
 <br />
 
@@ -57,5 +57,5 @@ ___
 <br />
 
 [![Kharioki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kharioki&layout=compact&theme=dark)](https://github.com/kharioki/github-readme-stats)
-
+ -->
 
