@@ -9,14 +9,15 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **Design systems:** Storybook, Chromatic, Figma
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
 * **Headless CMS:** Sanity, Contentful, Strapi, Netlify CMS, Netlify Identity
+* **JAMStack:** NextJS + FaunaDB
 * **Back-end:** KeystoneJS, Prisma, Hasura, MongoDB, FaunaDB, Postgres
 * **Styling:** CSS, sass, less, tailwind, styled-components, material-ui
 * **Machine learning:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
-* **Crypto stuff:** Solidity, Hardhat, Ethers.js
+* **Crypto stuff:** Solidity, Hardhat, Ethers.js, Truffle suite
 * **Agile stuff:** Everything Atlassian, slab, asana, etc
 * **Extras:** Alexa skills,  Google assistant skills, AR Studio, Facebook technologies, React VR, 
-* **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth
+* **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth, Amplify AWS auth
 
 ### My work hours :calendar: :alarm_clock:
 My work/consultation hours are anytime on weekdays. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
