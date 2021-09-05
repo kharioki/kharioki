@@ -34,11 +34,11 @@ The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
 
 ### Some of my latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind CSS: core concepts and JIT mode.](https://dev.to/kharioki/tailwind-css-core-concepts-and-jit-mode-c94)
 - [Configuring my VS Code Editor :)](https://dev.to/kharioki/configuring-my-vs-code-editor-gm6)
 - [Behold, Recoil state management](https://dev.to/kharioki/behold-recoil-state-management-4oa1)
 - [Site tradeoffs: SEO vs Speed vs Ease of update](https://dev.to/kharioki/site-tradeoffs-seo-vs-speed-vs-ease-of-update-lnm)
 - [NextJS - getting started](https://dev.to/kharioki/nextjs-getting-started-1pbe)
-- [JS interviews... and how to (part 3)](https://dev.to/kharioki/js-interviews-and-how-to-part-3-4ll8)
 <!-- BLOG-POST-LIST:END -->
 
 ### Other things you may want to know about me
