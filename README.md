@@ -10,7 +10,8 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
 * **Headless CMS:** Sanity, Contentful, Strapi, Netlify CMS, Netlify Identity
 * **JAMStack:** NextJS + FaunaDB
-* **Back-end:** KeystoneJS, Prisma, Hasura, MongoDB, FaunaDB, Postgres
+* **Backend APIs:** NodeJS, Express, NestJS, Fastify, Hapi, Prisma, KeystoneJS, Hasura
+* **Databases:** MongoDB, FaunaDB, Postgres, RethinkDB
 * **Styling:** CSS, sass, less, tailwind, styled-components, material-ui
 * **Machine learning:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
