@@ -4,7 +4,7 @@
 I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DIY-stuff, rewatching NCIS series and cold beer :beer:.
 
 ### My tools :wrench: :hammer: :nut_and_bolt:
-* **Languages** Javascript/Typescript, Python, Dart, Rust 
+* **Languages** Javascript/Typescript, Python, Dart, Rust, Go 
 * **Mobile app development:** React Native, Flutter
 * **Design systems:** Storybook, Chromatic, Figma
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
@@ -13,9 +13,9 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **Backend APIs:** NodeJS, Express, NestJS, Fastify, Hapi, Prisma, KeystoneJS, Hasura
 * **Databases:** MongoDB, FaunaDB, Postgres, RethinkDB
 * **Styling:** CSS, sass, less, tailwind, styled-components, material-ui
-* **Machine learning:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
+* **Machine learning and DS:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
-* **Crypto stuff:** Solidity, Hardhat, Ethers.js, Truffle suite, Solana
+* **Crypto stuff:** Solidity, Hardhat, Ethers.js, Truffle suite, Solana, Graph
 * **Agile stuff:** Everything Atlassian, slab, asana, etc
 * **Extras:** Alexa skills,  Google assistant skills, AR Studio, Facebook technologies, React VR, 
 * **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth, Amplify AWS auth
