@@ -15,7 +15,7 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **Styling:** CSS, sass, less, tailwind, styled-components, material-ui
 * **Machine learning and DS:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
-* **Crypto stuff:** Solidity, Hardhat, Ethers.js, Truffle suite, Solana, Graph
+* **Crypto stuff:** Solidity, Hardhat, Ethers.js, Truffle suite, Solana, Graph, Phantom, Celo protocol, Metamask
 * **Agile stuff:** Everything Atlassian, slab, asana, etc
 * **Extras:** Alexa skills, Google assistant skills, AR Studio, Facebook technologies, React VR, 
 * **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth, Amplify AWS auth
