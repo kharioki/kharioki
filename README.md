@@ -37,7 +37,7 @@ The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
 <!-- BLOG-POST-LIST:START -->
 - [Testing Library and why I use React Testing Library.](https://dev.to/kharioki/testing-library-and-why-i-use-react-testing-library-9d5)
 - [Tailwind CSS: core concepts and JIT mode.](https://dev.to/kharioki/tailwind-css-core-concepts-and-jit-mode-c94)
-- [Configuring my VS Code Editor :)](https://dev.to/kharioki/configuring-my-vs-code-editor-gm6)
+- [Configuring my VS Code Editor :&rpar;](https://dev.to/kharioki/configuring-my-vs-code-editor-gm6)
 - [Behold, Recoil state management](https://dev.to/kharioki/behold-recoil-state-management-4oa1)
 - [Site tradeoffs: SEO vs Speed vs Ease of update](https://dev.to/kharioki/site-tradeoffs-seo-vs-speed-vs-ease-of-update-lnm)
 <!-- BLOG-POST-LIST:END -->
