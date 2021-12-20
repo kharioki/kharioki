@@ -10,12 +10,12 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
 * **Headless CMS:** Sanity, Contentful, Strapi, Netlify CMS, Netlify Identity
 * **JAMStack:** NextJS + FaunaDB
-* **Backend APIs:** NodeJS, Express, NestJS, Fastify, Hapi, Prisma, KeystoneJS, Hasura
+* **Backend APIs:** AWS CDK, NodeJS, Express, NestJS, Fastify, Hapi, Prisma, KeystoneJS, Hasura
 * **Databases:** Firebase, Supabase, MongoDB, FaunaDB, Postgres, RethinkDB
 * **Styling:** CSS, sass, less, tailwind, styled-components, material-ui
 * **Machine learning and DS:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
-* **Crypto stuff:** Solidity, Hardhat, Ethers.js, Truffle suite, Solana, Graph, Phantom, Celo protocol, Metamask
+* **Crypto stuff:** Solidity, Hardhat, Ethers.js, Truffle suite, Solana, Graph, Phantom, Celo protocol, Metamask, Avalance
 * **Agile stuff:** Everything Atlassian, slab, asana, etc
 * **Extras:** Alexa skills, Google assistant skills, AR Studio, Facebook technologies, React VR, 
 * **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth, Amplify AWS auth
