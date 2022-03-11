@@ -4,7 +4,7 @@
 I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DIY-stuff, rewatching NCIS series and cold beer :beer:.
 
 ### My tools :wrench: :hammer: :nut_and_bolt:
-* **Languages** Javascript/Typescript, Python, Dart, Rust, Go 
+* **Languages** Javascript/Typescript, Python, Dart, Rust, Go, Solidity, Elixir 
 * **Mobile app development:** React Native, Flutter
 * **Design systems:** Storybook, Chromatic, Figma
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
@@ -12,10 +12,10 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **JAMStack:** NextJS + FaunaDB
 * **Backend APIs:** AWS CDK, NodeJS, Express, NestJS, Fastify, Hapi, Prisma, KeystoneJS, Hasura
 * **Databases:** Firebase, Supabase, MongoDB, FaunaDB, Postgres, RethinkDB
-* **Styling:** CSS, sass, less, tailwind, styled-components, material-ui
+* **Styling:** CSS, sass, less, tailwind, styled-components, material-ui, Emotion
 * **Machine learning and DS:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
-* **Crypto stuff:** Solidity, Hardhat, Ethers.js, Truffle suite, Solana, Graph, Phantom, Celo protocol, Metamask, Avalance
+* **Crypto stuff:** ThirdWeb, Hardhat, Ethers.js, Truffle suite, Solana, Graph, Phantom, Celo protocol, Metamask, Avalance
 * **Agile stuff:** Everything Atlassian, slab, asana, etc
 * **Extras:** Alexa skills, Google assistant skills, AR Studio, Facebook technologies, React VR, 
 * **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth, Amplify AWS auth
