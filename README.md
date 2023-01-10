@@ -1,11 +1,11 @@
 <!-- ![cover](https://user-images.githubusercontent.com/22290070/88123355-6a4a1780-cbd3-11ea-8a17-bf4a984cd1c6.jpeg)
  -->
 ### Hey, I'm Tony Stark :speech_balloon: 
-I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DIY-stuff, rewatching NCIS series and cold beer :beer:.
+I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DIY-stuff, rewatching TV shows and cold :beer:.
 
 ### My tools :wrench: :hammer: :nut_and_bolt:
 * **Languages** Javascript/Typescript, Python, Dart, Rust, Go, Solidity, Elixir 
-* **Mobile app development:** React Native, Flutter
+* **Mobile app development:** Expo, React Native, Flutter
 * **Design systems:** Storybook, Chromatic, Figma
 * **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
 * **Headless CMS:** Sanity, Contentful, Strapi, Netlify CMS, Netlify Identity
@@ -15,7 +15,7 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 * **Styling:** CSS, sass, less, tailwind, styled-components, material-ui, Emotion
 * **Machine learning and DS:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
 * **TDD:** Jest, Mocha, Chai, Cypress, React testing library
-* **Crypto stuff:** ThirdWeb, Hardhat, Ethers.js, Truffle suite, Solana, Graph, Phantom, Celo protocol, Metamask, Avalance
+* **Crypto stuff:** ThirdWeb, Hardhat, Ethers.js, Truffle suite, Solana, Graph, Phantom, Celo protocol, Metamask, Avalance, Flow
 * **Agile stuff:** Everything Atlassian, slab, asana, etc
 * **Extras:** Alexa skills, Google assistant skills, AR Studio, Facebook technologies, React VR, 
 * **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth, Amplify AWS auth
@@ -24,7 +24,8 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 My work/consultation hours are anytime on weekdays. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
 
 ### How to best communicate with me :satellite: :telephone_receiver: :phone:
-The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki).
+The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki) or on **Telegram** >> @tony_kharioki.
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/kharioki?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ### I can help you with:
