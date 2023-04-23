@@ -3,7 +3,7 @@
 ### Hey, I'm Tony Stark :speech_balloon: 
 I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DIY-stuff, rewatching TV shows and cold :beer:.
 
-<a href="https://app.daily.dev/kharioki"><img src="https://github.com/kharioki/kharioki/blob/master/devcard.svg" width="400" alt="Kharioki's Dev Card"/></a>
+<a href="https://app.daily.dev/kharioki"><img align="right" src="https://github.com/kharioki/kharioki/blob/master/devcard.svg" width="400" alt="Kharioki's Dev Card"/></a>
 
 ### My tools :wrench: :hammer: :nut_and_bolt:
 * **Languages** Javascript/Typescript, Python, Dart, Rust, Go, Solidity, Elixir 
