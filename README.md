@@ -5,22 +5,21 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 
 <a href="https://app.daily.dev/kharioki"><img align="right" src="https://github.com/kharioki/kharioki/blob/master/devcard.svg" width="400" alt="Kharioki's Dev Card"/></a>
 
+### Some cool things I've worked on
+I build web, mobile and blockchain apps. Here are some cool products I've built recently:
+* [**The Appointment Lab**](https://tal-showcase.vercel.app/)
+* [**Tiket**](https://tiket.vercel.app/)
+* [**Shamba DAO**](https://shamba-dao.vercel.app/)
+* [**NFT Marketplace - Mobile**](https://mute-smoke-9738.on.fleek.co/)
+
 ### My tools :wrench: :hammer: :nut_and_bolt:
-* **Languages** Javascript/Typescript, Python, Dart, Rust, Go, Solidity, Elixir 
-* **Mobile app development:** Expo, React Native, Flutter
-* **Design systems:** Storybook, Chromatic, Figma
-* **Web app development:** React(Gatsby, NextJS, CRA), Vue, Graphql, Apollo, HTML
-* **Headless CMS:** Sanity, Contentful, Strapi, Netlify CMS, Netlify Identity
-* **JAMStack:** NextJS + FaunaDB
-* **Backend APIs:** AWS CDK, NodeJS, Express, NestJS, Fastify, Hapi, Prisma, KeystoneJS, Hasura
-* **Databases:** Firebase, Supabase, MongoDB, FaunaDB, Postgres, RethinkDB
-* **Styling:** CSS, sass, less, tailwind, styled-components, material-ui, Emotion
-* **Machine learning and DS:** Numpy, Pandas, Jupyter notebooks, Matplotlib, Scikit-learn, Tensorflow.
-* **TDD:** Jest, Mocha, Chai, Cypress, React testing library
-* **Crypto stuff:** ThirdWeb, Hardhat, Ethers.js, Truffle suite, Solana, Graph, Phantom, Celo protocol, Metamask, Avalance, Flow
-* **Agile stuff:** Everything Atlassian, slab, asana, etc
-* **Extras:** Alexa skills, Google assistant skills, AR Studio, Facebook technologies, React VR, 
-* **Auth:** PassportJS, Netlify Identity, AuthO, Algoria, Social Auth, Amplify AWS auth
+My main tools are:
+* [**React**](https://react.dev/), [**NextJS**](https://nextjs.org/)
+* [**React Native**](https://reactnative.dev/), [**Expo**](https://expo.dev/), [**Android**](https://developer.android.com/jetpack/compose), [**Swift**](https://developer.apple.com/xcode/swiftui/), [**Flutter**](https://flutter.dev/)
+
+### Checkout my portfolio
+You can see more of my work [**here**](https://kharioki.com/)
+And read my articles [**here**](https://dev.to/kharioki)
 
 ### My work hours :calendar: :alarm_clock:
 My work/consultation hours are anytime on weekdays. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
@@ -38,6 +37,9 @@ The best way to reach me is via [**Twitter DMs**](https://twitter.com/kharioki) 
 
 ### Some of my latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Horizontal Calendar - a simple datepicker for React Native](https://dev.to/kharioki/horizontal-calendar-a-simple-date-picker-for-react-native-4h2)
+- [Zod 101 - a typescript-first schema validation library](https://dev.to/kharioki/zod-101-a-typescript-first-schema-validation-library-4dgm)
+- [Building a fullstack nextjs app - trpc(v10) and prisma](https://dev.to/kharioki/building-a-fullstack-nextjs-app-trpcv10-tailwind-prisma-2f4)
 - [Testing Library and why I use React Testing Library.](https://dev.to/kharioki/testing-library-and-why-i-use-react-testing-library-9d5)
 - [Tailwind CSS: core concepts and JIT mode.](https://dev.to/kharioki/tailwind-css-core-concepts-and-jit-mode-c94)
 - [Configuring my VS Code Editor :&rpar;](https://dev.to/kharioki/configuring-my-vs-code-editor-gm6)
