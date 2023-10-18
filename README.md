@@ -7,8 +7,9 @@ I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DI
 
 ### Some cool things I've worked on
 I build web, mobile and blockchain apps. Here are some cool products I've built recently:
-* [**The Appointment Lab**](https://tal-showcase.vercel.app/)
-* [**Tiket**](https://tiket.vercel.app/)
+* [**Blur Faces AI Model**](https://replicate.com/kharioki/blur-faces) - you should check this out
+* [**The Appointment Lab**](https://tal-showcase.vercel.app/) - really cool mobile app
+* [**Tiket**](https://tiket.vercel.app/) - decentralized ecommerce
 * [**Shamba DAO**](https://shamba-dao.vercel.app/)
 * [**NFT Marketplace - Mobile**](https://mute-smoke-9738.on.fleek.co/)
 
