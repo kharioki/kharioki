@@ -3,7 +3,7 @@
 ### Hey, I'm Tony 'Stark' Kharioki :speech_balloon: 
 I'm a software engineer, digital nomad, maker, UXer and fashion model. I love DIY-stuff, rewatching TV shows and cold :beer:.
 
-<a href="https://app.daily.dev/kharioki"><img align="right" src="https://github.com/kharioki/kharioki/blob/master/devcard.svg" width="400" alt="Kharioki's Dev Card"/></a>
+<!--- <a href="https://app.daily.dev/kharioki"><img align="right" src="https://github.com/kharioki/kharioki/blob/master/devcard.svg" width="400" alt="Kharioki's Dev Card"/></a> --->
 
 ### Some cool things I've worked on
 I build web, mobile and blockchain apps. Here are some cool products I've built recently:
@@ -26,7 +26,7 @@ And read my articles [**here**](https://dev.to/kharioki)
 My work/consultation hours are anytime on weekdays. Only call on weekends if its urgent, or I'm on fire, or you're on fire.
 
 ### How to best communicate with me :satellite: :telephone_receiver: :phone:
-The best way to reach me 24/7 is via [**Twitter DMs**](https://twitter.com/kharioki) or on **Telegram** >> @tony_kharioki.
+The best way to reach me 24/7 is via [**X DMs**](https://twitter.com/kharioki) or on **Telegram** >> @tony_kharioki.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/kharioki?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
